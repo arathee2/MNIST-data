@@ -8,7 +8,7 @@ Getting hands on the famous MNIST handwritten digits data set.
 [Kaggle-Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/data)
 
 # Approach
-The file "compare_models.md" compares the performance of the following three machine learning algorithms:
+This [notebook](https://github.com/arathee2/MNIST-data/blob/master/compare_models.md) compares the performance of the following three machine learning algorithms:
 
 * Random Forest
 * XGBoost
