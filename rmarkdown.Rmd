@@ -21,7 +21,7 @@ There was a time when *random forest* was the coolest machine learning algorithm
 
 ## Overview of notebook
 
-This notebook compares random forest, XGBOOSt and a simple deep neural network build using the H2O package in R. Since the data takes a lot of time to train, only 10% of the data is going to be used here. I'll share how the algorithms performed on full data at the end of the notebook.
+This notebook compares random forest, XGBoost and a simple deep neural network build using the H2O package in R. Since the data takes a lot of time to train, only 10% of the data is going to be used here. I'll share how the algorithms performed on full data at the end of the notebook.
 
 ***
 ## Load data
