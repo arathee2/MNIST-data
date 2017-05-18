@@ -19,7 +19,7 @@ Amandeep Rathee
 Introduction
 ------------
 
-There was a time when *random forest* was the coolest machine learning algorithm on machine learning competition platoforms like **Kaggle** . But things changed and a better version of *gradient boosted trees* came along, with the name *XGBOOST*. The trend seems to continue and *deep learning* methods are replacing XGBOOST especially in competitions where image processing is involved. People are using deep nets recurrently in the following Kaggle competitions:
+There was a time when *random forest* was the coolest machine learning algorithm on machine learning competition platforms like **Kaggle** . But things changed and a better version of *gradient boosted trees* came along, with the name *XGBOOST*. The trend seems to continue and *deep learning* methods are replacing XGBOOST especially in competitions where image processing is involved. People are using deep nets recurrently in the following Kaggle competitions:
 
 -   [NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count)
 -   [Invasive Species Monitoring](https://www.kaggle.com/c/invasive-species-monitoring)
